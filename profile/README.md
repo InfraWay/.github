@@ -1,12 +1,12 @@
 ## Hello 👋
 
-InfraWay is set of DevOps tools and best practices combined in one place.
+InfraWay is a set of DevOps tools and best practices combined in one place.
 
-We build software that we use on the daily basis.
+We build software that we use on a daily basis.
 
-We build it with love and patience, tested and validated for ourselves and for you.
+We build it with love and patience, tested and validated for ourselves and others.
 
-Find our more in pinned repositories 👇
+Find out more in pinned repositories 👇
 <!--
 
 **Here are some ideas to get you started:**
